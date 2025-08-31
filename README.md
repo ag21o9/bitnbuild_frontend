@@ -102,9 +102,9 @@ See [Expo docs](https://docs.expo.dev/classic/building-standalone-apps/) for APK
 
 ## 👥 Team: Class_Bunkers
 
-- **Vayu Gautam** - Frontend Developer & Team Lead  
+- **Divya Ratna Gautam** - Frontend Developer & Team Lead  
 - **Vishesh Sachan** - Backend & Integration
-- **Nazeeb Warsi** - Frontend & Integration
+- **Mohd Nazeeb Mansoori** - Frontend & Integration
 - **Abhijeet Gupta** - Backend Developer & GenAI Developer
 
 ---
